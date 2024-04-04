@@ -1,1 +1,25 @@
-# DeltaBreed-a11y
+- Home http://localhost:8080/ (*unauthenticated*) ![home](./images/home.png)
+    - Login modal http://localhost:8080/ ![login-modal](./images/login-modal.png)
+- Program Selection http://localhost:8080/program-selection ![program-selection](./images/program-selection.png)
+- Admin: Programs http://localhost:8080/admin/programs ![admin-programs](./images/admin-programs.png)
+- Admin: Users http://localhost:8080/admin/users ![admin-users](./images/admin-users.png)
+- Programs: Home http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/home ![programs-home](./images/programs-home.png)
+- Programs: Germplasm http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/germplasm/germplasm-all ![programs-germplasm](./images/programs-germplasm.png)
+- Programs: Experiments & Observations http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/experiments-observations ![programs-experiments](./images/programs-experiments.png)
+- Programs: Ontology
+    - Active http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/ontology/active-terms ![programs-ontology-active](./images/programs-ontology-active.png)
+    - Archived http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/ontology/archived-terms ![programs-ontology-archived](./images/programs-ontology-archived.png)
+- Programs: Import Data
+    - Germplasm http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/import/germplasm ![programs-import-germplasm](./images/programs-import-germplasm.png)
+    - Ontology http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/import/ontology ![programs-import-ontology](./images/programs-import-ontology.png)
+    - Experiments & Observations http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/import/experiment ![programs-import-experiment](./images/programs-import-experiment.png)
+    - Genotypic Data http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/import/geno ![programs-import-geno](./images/programs-import-geno.png)
+    - Genotype Samples http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/import/sample ![programs-import-sample](./images/programs-import-sample.png)
+- Programs: Sample Management  ![programs-sample-management](./images/programs-sample-management.png)
+- Programs: Program Administration
+    -  Users http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/program-administration/users ![programs-admin-users](./images/programs-admin-users.png)
+    -  Locations http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/program-administration/locations ![programs-admin-locations](./images/programs-admin-locations.png)
+    -  Breeding Methods http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/program-administration/breeding-methods ![programs-admin-breeding-methods](./images/programs-admin-breeding-methods.png)
+    -  Configure http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/program-administration/configuration ![programs-admin-configuration](./images/programs-admin-configuration.png)
+- Programs: BrAPI http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/brapi ![programs-brapi](./images/programs-brapi.png)
+- Programs: Jobs http://localhost:8080/programs/627f5e96-da9b-44f3-9102-d88fd92d4a3e/jobs ![programs-jobs](./images/programs-jobs.png)
